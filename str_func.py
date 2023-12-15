@@ -1,4 +1,7 @@
 def second_func(value):
+    """ 
+    Функция для заглавных букв
+    """
     list_val = value.split()
     new_list = []
     for val in list_val:
